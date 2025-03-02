@@ -29,3 +29,6 @@ By leveraging existing functionality, we can enhance ChatGPT’s Share feature t
 This upgrade requires no major changes to ChatGPT’s core system—just a smarter Share feature that boosts usability, security, and enterprise adoption.
 
 Instead of a static Share button, we introduce structured, dynamic, and safe sharing, unlocking ChatGPT’s full potential for education, research, gaming, and professional collaboration. 🚀
+
+
+![image](https://github.com/user-attachments/assets/bde0c324-9694-472e-93ae-2edfec430065)
