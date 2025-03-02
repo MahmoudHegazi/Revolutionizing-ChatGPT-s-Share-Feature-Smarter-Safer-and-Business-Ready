@@ -32,3 +32,7 @@ Instead of a static Share button, we introduce structured, dynamic, and safe sha
 
 
 ![image](https://github.com/user-attachments/assets/bde0c324-9694-472e-93ae-2edfec430065)
+
+
+![image](https://github.com/user-attachments/assets/75f599a3-938e-457c-9294-cb538aab15ca)
+
